@@ -1,4 +1,4 @@
-pragma once
+#pragma once
 #include "sdk.h"
 #define BOOST_BEAST_USE_STD_STRING_VIEW
 
